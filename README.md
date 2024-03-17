@@ -1,2 +1,3 @@
 # Linear-Mixed-Model
-Study > Linear Mixed Model에 관한 개별 스터디
+
+- 교재: Generalized, Linear, and Mixed Models, 2nd Edition (Charles E. McCulloch, Shayle R. Searle, John M. Neuhaus)
